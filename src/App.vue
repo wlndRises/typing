@@ -121,7 +121,7 @@ function handleOninput() {
           setTimeout(() => {
             clearInterval(timed)
             changeLevel(0)
-            countdown.value = 4
+            countdown.value = TIME
             setHighScore()
           }, 1000)
         }
