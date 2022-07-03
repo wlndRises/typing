@@ -1,0 +1,17 @@
+export default [
+  'build',
+  'chore',
+  'ci',
+  'docs',
+  'feat',
+  'fix',
+  'perf',
+  'refactor',
+  'revert',
+  'style',
+  'test',
+  'workflow',
+  'wip',
+  'terse',
+  'mod',
+]

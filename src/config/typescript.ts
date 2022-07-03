@@ -1,0 +1,16 @@
+export default [
+  'declare',
+  'enum',
+  'tuple',
+  'union',
+  'intersection',
+  'partial',
+  'required',
+  'mutable',
+  'readonly',
+  'omit',
+  'pick',
+  'exclude',
+  'extract',
+  'record',
+]

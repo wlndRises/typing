@@ -1,0 +1,18 @@
+export default [
+  'capitalize',
+  'freeze',
+  'effect',
+  'entries',
+  'assign',
+  'invalidate',
+  'cleanup',
+  'destroy',
+  'dispose',
+  'trigger',
+  'track',
+  'notify',
+  'depend',
+  'observe',
+  'debounce',
+  'throttle',
+]
