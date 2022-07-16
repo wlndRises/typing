@@ -5,4 +5,6 @@ export default [
   'release candidate',
   'user interface design',
   'user experience',
+  'request for comments',
+  'single file component',
 ]

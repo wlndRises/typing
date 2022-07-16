@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { TIME, words } from '~/config'
+import { TIME, words } from '~/words'
 
 const level = ref(0)
 const pointer = ref(0)
