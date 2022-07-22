@@ -2,6 +2,7 @@
   "recommendations": [
     "vue.volar",
     "antfu.unocss",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker"
   ]
 }

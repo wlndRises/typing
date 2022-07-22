@@ -1,6 +1,6 @@
 export default [
   'resume',
-  'pauce',
+  'pause',
   'soft',
   'hard',
   'show',
