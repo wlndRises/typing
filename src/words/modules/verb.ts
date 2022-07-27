@@ -79,6 +79,7 @@ export default [
 
   'launch',
   'run',
+
   'compile',
   'execute',
 
@@ -150,7 +151,4 @@ export default [
 
   'obsolete',
   'depreciate',
-
-  'collect',
-  'aggregate',
 ]
