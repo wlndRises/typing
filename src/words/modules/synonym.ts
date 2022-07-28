@@ -1,9 +1,5 @@
 export default [
 
-  'failure',
-  'fatal',
-  'invalid',
-
   'hear',
   'listen',
 
@@ -28,17 +24,11 @@ export default [
   'stack',
   'heap',
 
-  'gentle',
-  'firm',
-
   'target',
   'source',
 
   'attribute',
   'property',
-
-  'refactor',
-  'revert',
 
   'bundle',
   'chunk',
